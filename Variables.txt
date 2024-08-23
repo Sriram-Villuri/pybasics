@@ -1,1 +1,20 @@
 
+                                    CH-1 WHAT ARE VARIABLES
+
+Variables are used to store and label pieces
+of information. You'll use them a lot in your 
+code - for example, to hold your current score
+or keep track of how many lives you have left.
+
+^Storage Box
+A variable is like a boc with a name label.
+You can store data in the box and then use
+its name to find the data again when you 
+need to use it.
+                                    CH-2 HOW TO CREATE A VARIABLE
+
+You need to give each variarble a name that describes 
+what data is stored inside it. What the variable stores is 
+called its value. Type the name followed byan equals
+sign, then type the value, with a space between each
+part. This is called "assigning a value" to the variable.

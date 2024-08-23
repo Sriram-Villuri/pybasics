@@ -38,6 +38,32 @@ print (cards[0])
 
 print (cards[4])
 
+answer_one = True
+
+answer_two = False
+
+age = 10
+
+if age ==10 :
+    print ("you are 10 years old")
+
+else :
+    print ("you are a baby")
+
+monsters = 3
+
+coins = 4
+
+print (coins > monsters)
+
+print (coins == monsters)
+
+print (monsters < coins)
+
+print ((monsters == 3) and (coins == 4))
+
+print ((monsters == 7) or (coins == 4))
+
 spells = 4444444444444444444447
 
 if (spells > 10):

@@ -82,4 +82,4 @@ elif (ghosts < 0):
 else :
     print ("ghosts all gone")
 
-#thank you for reading my practice.py file , now you can move on to the next file named as 'practice2 loops.py'.Please follow my account.
+#Thank you for reading my practice.py file , now you can move on to the next file named as 'practice2-loops.py'.Please follow my account.

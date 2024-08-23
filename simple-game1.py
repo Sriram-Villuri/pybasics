@@ -1,5 +1,5 @@
 
-#this is a simple game where you can play if you want a water baloon or not
+#This is a simple game where you can play if you want a water baloon or not.
 
 print ("NARRATOR : The story starts at you in Minecraft....")
 

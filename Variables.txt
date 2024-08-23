@@ -18,3 +18,34 @@ what data is stored inside it. What the variable stores is
 called its value. Type the name followed byan equals
 sign, then type the value, with a space between each
 part. This is called "assigning a value" to the variable.
+
+                                    CH-3 NAMING VARIABLES
+
+Always choose a meaningful name
+for each variable in your programs.
+For example, a variable for tracking the
+number of attempts a player has left
+could be called 'attemts_remaining',
+rather than just 'attempts' or 'a'. Variable
+names can contain letters, numbers, and
+underscores, but they should allways start
+with a letter. Follow these rules and you 
+wont go wrong.
+
+                                    CH-4 DO'S AND DONT'S (FOR NAMING VARIABLES)
+                                
+*Always start the variables name with a letter.
+
+*Any letter or number can be used in the name.
+
+*Symbols such as -,/,#,@ aren't allowed.
+
+*Do not use spaces. An underscore (_) can be used instead.
+
+*Upercase(capital) and lowercase letters are different.
+ Python will treat 'Score' and 'score' as two different variables.
+
+*Avoid words that are used in Python as commands,
+ such as "function" or "screen".
+
+                                    CH-5 Using numbers

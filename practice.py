@@ -18,7 +18,7 @@ card5 = "5 hearts"
 cards = ["1 heart" , "4 hearts" , "2 hearts", "3 hearts" , "5 hearts"]
 print (cards[0])
 print (cards[4])
-spells = 9
+spells = 4444444444444444444447
 if (spells > 10):
     print ("You gained the fire enchantment")
 else :
